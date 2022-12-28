@@ -8,7 +8,7 @@
 <p></p>
   <div id = "2" align = "center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align = "center" src = "https://github-readme-stats-one-olive.vercel.app/api/top-langs/?username=vmanke&theme=dark&exclude_repos=ct-rek&hide_border=true&layout=compact&langs_count=4" />
+      <img align = "center" src = "https://github-readme-stats-one-olive.vercel.app/api/top-langs/?username=vmanke&theme=dark&exclude_repo=ct-rek&hide_border=true&layout=compact&langs_count=4" />
     </a>
   </div>
 
