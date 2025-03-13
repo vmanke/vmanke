@@ -1,5 +1,4 @@
 <div id="1" align="center">
-    <h2>Medical Physicist, Knowledge Manager & Data Intelligence Engineer</h2>
     <img src = "https://media1.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" align = "center" width = "420" />
 </div>
 
